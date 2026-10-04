@@ -8,4 +8,4 @@ I currently have a chance to work at **Data4Life**, a non-profit digital health 
 
 ### What this GitHub is
 
-Most of my design work lives in my portfolio. But this GitHub is more like a **playground.** I have been addicted to vibe coding lately and this is where I store all my vibe coding projects. It's been quite a fun ride building my own ideas with AI, from a rough sketch to something real that people can use. Along the way I'm learning how software is actually made, from code and project structure to version control, hosting and shipping, so I can work even better with the engineers I design with.
+Most of my design work lives in my [portfolio](https://gabrielajessica.wixstudio.com/portfolio). But this GitHub is more like a **playground.** I have been addicted to vibe coding lately and this is where I store all my vibe coding projects. It's been quite a fun ride building my own ideas with AI, from a rough sketch to something real that people can use. Along the way I'm learning how software is actually made, from code and project structure to version control, hosting and shipping, so I can work even better with the engineers I design with.
