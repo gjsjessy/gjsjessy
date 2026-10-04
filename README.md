@@ -11,9 +11,3 @@ Outside of design, I love exploring new places and spending time in nature. I'm 
 ### What this GitHub is
 
 Most of my design work lives in my portfolio. But this GitHub is more like a **playground.** I have been addicted to vibe coding lately and this is where I store all my vibe coding projects. It's been quite a fun ride building my own ideas with AI, from a rough sketch to something real that people can use. Along the way I'm learning how software is actually made, from code and project structure to version control, hosting and shipping, so I can work even better with the engineers I design with.
-
-### Find me
-
-🎨 Portfolio: [gabrielajessica.wixstudio.com/portfolio](https://gabrielajessica.wixstudio.com/portfolio) (my current live portfolio while my self-made one is on the way)<br>
-💼 LinkedIn: [linkedin.com/in/gabrielajessicasusilo](https://www.linkedin.com/in/gabrielajessicasusilo/)<br>
-✉️ Email: [gabrielajessicas@gmail.com](mailto:gabrielajessicas@gmail.com)
