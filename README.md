@@ -1,4 +1,6 @@
-## Hi, I'm Gabriela Jessica 👋. I'm a **Product Designer, based in Singapore** with 6+ years of designing complex digital products across enterprise SaaS, healthtech, fintech, Web3, government systems and e-commerce.
+### Hi, I'm Gabriela Jessica 👋. 
+
+I'm a **Product Designer, based in Singapore** with 6+ years of designing complex digital products across enterprise SaaS, healthtech, fintech, Web3, government systems and e-commerce.
 
 I love taking complicated requirements, workflows and half-formed ideas and turning them into experiences that feel clear and human. Right now I'm at **Data4Life**, a non-profit digital health organisation, designing **Data2Evidence**, an open-source healthcare data platform used by medical researchers around the world. Before that I was the sole designer of a global CRM used across 24+ countries, and I've helped take a number of products from first idea to launch.
 
