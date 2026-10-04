@@ -1,4 +1,4 @@
-### Hi, I'm Gabriela Jessica 👋
+### Hi, Jessia here 👋
 
 I'm a **Product Designer based in Singapore** with over 6 years of experience designing digital products and complex systems across B2B and B2C, including enterprise SaaS, healthtech, fintech, Web3, and e-commerce. I design products that don't just look good; they make complex things easier to understand and improve how people and businesses work. I enjoy turning complicated requirements, workflows, and ambiguous problems into clear, intuitive, and scalable experiences.
 
