@@ -1,4 +1,4 @@
-### Hi, Jessia here 👋
+## Hi, Jessia here 👋
 
 I'm a **Product Designer based in Singapore** with over 6 years of experience designing digital products and complex systems across B2B and B2C, including enterprise SaaS, healthtech, fintech, Web3, and e-commerce. I design products that don't just look good, they make complex things easier to understand and improve how people and businesses work. I enjoy turning complicated requirements, workflows, and ambiguous problems into clear, intuitive, and scalable experiences.
 
@@ -8,4 +8,4 @@ I currently have a chance to work at **Data4Life**, a non-profit digital health 
 
 ### What this GitHub is
 
-Most of my design work lives in my [portfolio](https://gabrielajessica.wixstudio.com/portfolio). But this GitHub is more like a **playground.** I have been addicted to vibe coding lately and this is where I store all my vibe coding projects. It's been quite a fun ride building my own ideas with AI, from a rough sketch to something real that people can use. Along the way I'm learning how software is actually made, from code and project structure to version control, hosting and shipping, so I can work even better with the engineers I design with.
+Most of my design work lives in my [portfolio](https://gabrielajessica.wixstudio.com/portfolio). I treat this GitHub more like a **playground.** I have been addicted to vibe coding lately and this is where I store all my vibe coding projects. It's been quite a fun ride building my own ideas with AI, from a rough sketch to something real that people can use. Along the way I'm learning how software is actually made, from code and project structure to version control, hosting and shipping, so I can work even better with the engineers I design with.
